@@ -1,0 +1,32 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#app {
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 0.7em;
+    border: none;
+}
+
+button:hover {
+    cursor: pointer;
+    opacity: 0.4;
+}
+
+img {
+    border-radius: 100px;
+}
+
+.male {
+    background-color: aqua;
+}
+
+.female {
+    background-color: pink;
+}
